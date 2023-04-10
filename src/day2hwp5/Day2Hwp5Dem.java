@@ -14,7 +14,7 @@ public void multipl (int a, int b) {
 	System.out.println (a*b);
 	
 	
-	
+	System.out.println ("mutltiples of a and b.........");
 	
 	
 	
